@@ -1,6 +1,6 @@
 //Programa Principiante de Oracle Next Education. G9.
 //Participante: Darimar García.
-// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
+// El principal objetivo de este desafío es fortalecer las habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
 
 let amigos = [];
 const campoNombre = document.getElementById('amigo');
