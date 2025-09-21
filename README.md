@@ -25,6 +25,6 @@ El framework utilizado fue Visual Studio. El desarrollo se hizo utilizando: HTML
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Darimar García** - *Programación en JavaScript* - [villanuevand](https://github.com/villanuevand)
+* **Darimar García** - *Programación en JavaScript* - [darimargr](https://github.com/darimargr)
 * **Facilitada por ONE** - *Estructura y Estilo de la página. 
 
