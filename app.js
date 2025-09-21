@@ -46,8 +46,23 @@ function agregarAmigo(){
     actualizarArrayAmigos(nombreAmigo);
 
     // Limpiar el campo de entrada
-    campoNombre.value = "";   
+    campoNombre.value = "";
+    campoNombre.focus();   
   }            
+}
 
+function sortearAmigo(){
+  const resultado = document.getElementById('resultado');
+ 
+  //Validar que la lista amigos tenga algún elemento
+  if (amigos.length !== 0) {
+    //Determinar el amigo aleatoriamente
+    let amigoElegido = parseInt(Math.random() * amigos.length);   
+    //Mostrar el amigo elegido
+    resultado.textContent = `El amigo secreto es ${amigos[amigoElegido]}`;
+
+  } else {
+    alert("Por favor, inserte los nombres de los amigos");
+  }
 }
 
