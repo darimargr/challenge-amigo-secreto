@@ -21,10 +21,8 @@ Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará a
 
 El framework utilizado fue Visual Studio. El desarrollo se hizo utilizando: HTML, CSS y JavaScript. 
 
-## Autor ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+## Autores ✒️
 
 * **Darimar García** - *Programación en JavaScript* - [darimargr](https://github.com/darimargr)
-* **Facilitada por ONE** - *Estructura y Estilo de la página. 
+* **Facilitada por ONE** - *Estructura y Estilo de la página*. 
 
