@@ -1,3 +1,6 @@
+<img width="551" height="114" alt="image" src="https://github.com/user-attachments/assets/6bff7989-e858-4eef-b4e1-36f0c3e0a3d1" />
+
+
 # Challenge Amigo Secreto
 
 El Challenge Amigo Secreto es el primer desafío del trayecto Principiante en Programación G9 – ONE, el cual permite que los participantes pongan en práctica los conocimientos adquiridos durante la cursada, ejerciten el pensamiento lógico, desarrollen habilidades para la resolución de problemas y les permita consolidar sus conocimientos. 
